@@ -14,7 +14,7 @@ Example output:
     {
       "title": "Judgment",
       "Size": "30.75GB",
-      "PurchaseDate": "7/4/2019",
+      "PurchaseDate": "7/3/2023",
       "Platforms": [
         "PS4"
       ],
@@ -23,7 +23,7 @@ Example output:
     {
       "title": "Borderlands: The Handsome Collection",
       "Size": "28.64GB",
-      "PurchaseDate": "7/4/2019",
+      "PurchaseDate": "7/3/2023",
       "Platforms": [
         "PS4"
       ],
