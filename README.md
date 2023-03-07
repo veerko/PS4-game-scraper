@@ -12,8 +12,8 @@ Example output:
 ```{
   "games": [
     {
-      "title": "Judgment",
-      "Size": "30.75GB",
+      "title": "Grand theft auto 5",
+      "Size": "90.75GB",
       "PurchaseDate": "7/3/2023",
       "Platforms": [
         "PS4"
@@ -21,7 +21,7 @@ Example output:
       "productID": "UP0177-CUSA13186_00-JUDGMENTRYUGAENG"
     },
     {
-      "title": "Borderlands: The Handsome Collection",
+      "title": "Fortnite",
       "Size": "28.64GB",
       "PurchaseDate": "7/3/2023",
       "Platforms": [
