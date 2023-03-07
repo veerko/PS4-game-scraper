@@ -33,10 +33,10 @@ Example output:
 
 # How to use it in
 
-* clone the repo or use the Download zip option and unzip the directory ( PSGameDataScraper-master )  somewhere.
+* clone the repo or use the Download zip option and unzip the directory ( PS4-game-scraper-main )  somewhere.
 * Enter chrome://extensions into your chrome URL bar
 * Enable Developer mode option in the top right
-* Click "Load unpacked" in the top left, and choose the PSGameDataScraper-master directory.
+* Click "Load unpacked" in the top left, and choose the PS4-game-scraper-main directory.
 * You should now see the extension installed.  Click on its little PS and follow the instructions it gives
 
 Security warning: After using it, go back to chrome://extensions and remove it, and disable developer mode.  Normally you should never install an extension like this for security reasons, but I assume you would here because you know me or have looked at the source code!
