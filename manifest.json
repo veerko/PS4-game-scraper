@@ -4,7 +4,7 @@
 	"name": "RT Playstation Game Data Scraper",
 	"description": "Grabs your playstation purchase list and formats it as json data.",
 	"version": "1.0",
-	"author": "@rtsoft",
+	"author": "@st1ko-gs",
 
 
 	"background": {
