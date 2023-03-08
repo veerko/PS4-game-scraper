@@ -43,7 +43,7 @@ Security warning: After using it, go back to chrome://extensions and remove it, 
 
 # Todo
 
-I probably won't work much on this anymore but here are some issues/problems with it for anybody who wanted to use it as a starting point: UPDATE going to keep working on this when i have some
+I probably won't work much on this anymore but here are some issues/problems with it for anybody who wanted to use it as a starting point: UPDATE going to keep working on this when i have some extra
 
 * It asks for too many privileges, it should only need Sony's website.  I tried doing that, but it then no longer gives the "This is the wrong website" warning when you use it on the wrong webpage with how I currently do it
 * Instead of using alert() to show progress it should have a nice status window while working
