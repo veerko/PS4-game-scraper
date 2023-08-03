@@ -8,7 +8,7 @@ window.addEventListener('load', function (evt)
 });
 
 
-
+//chrome support
 document.addEventListener('DOMContentLoaded', function() 
 {
   var checkPageButton = document.getElementById('checkPage');
