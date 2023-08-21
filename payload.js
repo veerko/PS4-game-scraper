@@ -6,7 +6,6 @@ function ExtractDataFromNode(count, node)
 	
   kids = node.children;
   
-  console.log("node "+count+" with "+kids.length+" kids");
 	for (var i=0; i < kids.length; i++)
 	{
 		if (kids[i].className.includes("__title"))
